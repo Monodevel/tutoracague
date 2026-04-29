@@ -1,0 +1,81 @@
+{
+  "manifest": {
+    "package_name": "funcion_personal_generated",
+    "created_at": "2026-04-26T16:33:46.925355",
+    "generator_model": "qwen2.5:1.5b",
+    "status": "generated_pending_review",
+    "source_file": {
+      "base_name": "funcion_personal",
+      "file_name": "funcion_personal.txt",
+      "metadata_file": "funcion_personal.meta.json",
+      "source_hash": "cf7c0a190b60ebace50de86f618b780f4d97b0e82b17acc9aa73c0802d2035c7",
+      "area": "Funciones Primarias del Mando",
+      "topic": "Función Personal",
+      "document_title": "Documento oficial de Función Personal",
+      "document_version": "Inicial",
+      "source_type": "official_document",
+      "page_start": 1,
+      "page_end": 1,
+      "fragment_count": 1,
+      "lesson_count": 1,
+      "question_count": 1
+    },
+    "total_lessons": 1,
+    "total_questions": 1
+  },
+  "lessons": [
+    {
+      "area": "Funciones Primarias del Mando",
+      "topic": "Función Personal",
+      "title": "La Importancia de la Función Personal en el Mando Militar",
+      "learning_objective": "Comprender las responsabilidades y importancia de la función personal en la administración, empleo, bienestar, disciplina y control del personal dentro de una organización militar.",
+      "content": "En un entorno militar, la Función Personal es fundamental para asegurar la disponibilidad, moral y eficiencia de la fuerza. Esta función incluye diversas actividades que son crucialmente importantes para el éxito de cualquier misión. Por ejemplo, la administración y empleo del personal garantizan que cada miembro esté capacitado para realizar sus tareas de manera efectiva. El bienestar del personal es vital para mantener su motivación y compromiso con la misión. Además, la disciplina y el control son fundamentales para asegurar un ambiente seguro y eficiente en el trabajo.",
+      "summary": "La Función Personal es una componente clave del mando militar que se encarga de administrar, emplear, cuidar, disciplinar y supervisar a los miembros de la fuerza. Su correcta ejecución es fundamental para mantener la disponibilidad, moral y eficiencia de la fuerza.",
+      "key_points": [
+        "Responsabilidades generales de la Función Personal",
+        "Relación con el mando",
+        "Importancia en el cumplimiento de la misión"
+      ],
+      "source": {
+        "document_title": "Documento oficial de Función Personal",
+        "document_version": "Inicial",
+        "page_start": 1,
+        "page_end": 1,
+        "source_fragment": "La Función Personal comprende el conjunto de actividades orientadas a la administración, empleo, bienestar, disciplina y control del personal dentro de una organización militar. Su correcta ejecución permite mantener la disponibilidad, moral y eficiencia de la fuerza. El estudio de esta función exige comprender sus responsabilidades generales, su relación con el mando y su importancia en el cumplimiento de la misión.",
+        "source_fragment_hash": "1ac2523d3d5d08cc4abc2936e04578007125f4ef283c0855ae02e19dd2b16ca6"
+      },
+      "status": "generated_pending_review",
+      "prompt_version": "lesson-v1",
+      "generator": {
+        "model": "qwen2.5:1.5b",
+        "generated_at": "2026-04-26T16:32:32.225838",
+        "prompt_version": "lesson-v1",
+        "fragment_index": 1,
+        "base_name": "funcion_personal"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "question": "¿Qué actividades componen la Función Personal en el contexto del mando militar?",
+      "type": "multiple_choice",
+      "options": [
+        {
+          "label": "A",
+          "text": "Administración y empleo del personal"
+        },
+        {
+          "label": "B",
+          "text": "Bienestar del personal"
+        },
+        {
+          "label": "C",
+          "text": "Disciplina y control de la fuerza"
+        },
+        {
+          "label": "D",
+          "text": "Todos los anteriores"
+        }
+      ],
+      "correct_option": "D",
+      "explanation": "La Función Perso

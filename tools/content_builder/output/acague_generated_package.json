@@ -1,0 +1,63 @@
+{
+  "manifest": {
+    "package_name": "acague_generated_package",
+    "created_at": "2026-04-26T16:33:46.936747",
+    "generator_model": "qwen2.5:1.5b",
+    "status": "generated_pending_review",
+    "source_files": [
+      {
+        "base_name": "funcion_inteligencia",
+        "file_name": "funcion_inteligencia.txt",
+        "metadata_file": "funcion_inteligencia.meta.json",
+        "source_hash": "eea9b8f8bc4ec46aab5e62fa35b3d269ca6b672e084e8a6d61497cccd9a02140",
+        "area": "Funciones Primarias del Mando",
+        "topic": "Función Inteligencia",
+        "document_title": "Documento oficial de Función Inteligencia",
+        "document_version": "Inicial",
+        "source_type": "official_document",
+        "page_start": 1,
+        "page_end": 1,
+        "fragment_count": 1,
+        "lesson_count": 1,
+        "question_count": 1
+      },
+      {
+        "base_name": "funcion_personal",
+        "file_name": "funcion_personal.txt",
+        "metadata_file": "funcion_personal.meta.json",
+        "source_hash": "cf7c0a190b60ebace50de86f618b780f4d97b0e82b17acc9aa73c0802d2035c7",
+        "area": "Funciones Primarias del Mando",
+        "topic": "Función Personal",
+        "document_title": "Documento oficial de Función Personal",
+        "document_version": "Inicial",
+        "source_type": "official_document",
+        "page_start": 1,
+        "page_end": 1,
+        "fragment_count": 1,
+        "lesson_count": 1,
+        "question_count": 1
+      }
+    ],
+    "total_sources": 2,
+    "total_lessons": 2,
+    "total_questions": 2
+  },
+  "lessons": [
+    {
+      "area": "Funciones Primarias del Mando",
+      "topic": "Función Inteligencia",
+      "title": "Inteligencia: El Pilar de la Toque de Decisión",
+      "learning_objective": "Desarrollar una comprensión sólida sobre la importancia y el proceso de la función Inteligencia en el mando.",
+      "content": "La inteligencia es un elemento fundamental en el proceso de toma de decisiones, ya que busca obtener los antecedentes del enemigo, terreno y tiempo atmosferico. Esta función militar identifica las capacidades, limitaciones, vulnerabilidades y posibilidades de los adversarios para neutralizar la amenaza y proporcionar seguridad.",
+      "summary": "La inteligencia es crucial para el mando debido a su capacidad para recolectar, evaluar y analizar información, lo que permite tomar decisiones basadas en conocimientos precisos. Sin embargo, la falta de procedimientos y coordinaciones entre los diferentes esfuerzos puede conducir a una derrota.",
+      "key_points": [
+        "La inteligencia es un elemento fundamental en el proceso de toma de decisiones.",
+        "El objetivo principal de la inteligencia es obtener antecedentes del enemigo, terreno y tiempo atmosferico.",
+        "La función militar busca identificar las fortalezas y debilidades de los adversarios para neutralizar amenazas y proporcionar seguridad."
+      ],
+      "source": {
+        "document_title": "Documento oficial de Función Inteligencia",
+        "document_version": "Inicial",
+        "page_start": 1,
+        "page_end": 1,
+        "source_fragment": "La funcion Inteligencia, es una funcion primaria del mando, cuya proyeccion al Campo de Batalla la identifica, ademas, como una de las Funciones de Combate. La inteligencia es uno de los elementos fundamentales en el proceso de toma de deiciones y su importancia radica en que es la funcion militar que busca obtener el maximo de antecedentes del enemigo, terreno y tiempo atmosferico, contituyendo una actividad imprescindible en la tarea de determinar las capacidades, limitaciones, vulnerabilidades y posibilidades de los eventuales adversarios para identificar y contribuir a determinar sus fortalezas y debilidades con la finalidad de neutralizar la amenaza, proporcionar seguridad y brindar apoyo. Asucensia de informacion y/o inteligencia, la falta de procedimientos y coordinaciones entre los diferentes esfuerzos conducen a una inminente derrota. Definicion: Proceso sistematico de reco

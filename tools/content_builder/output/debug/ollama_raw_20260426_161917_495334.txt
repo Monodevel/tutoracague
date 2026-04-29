@@ -1,0 +1,66 @@
+```json
+{
+  "questions": [
+    {
+      "question": "¿Qué es la función Inteligencia en el contexto del mando?",
+      "type": "single_choice",
+      "options": [
+        {"label": "A", "text": "Función de control"},
+        {"label": "B", "text": "Función de toma de decisiones"},
+        {"label": "C", "text": "Función de coordinación"},
+        {"label": "D", "text": "Función de inteligencia militar"}
+      ],
+      "correct_option": "D",
+      "explanation": "La función Inteligencia es una habilidad militar que busca obtener los antecedentes más completos sobre el enemigo, su terreno y la situación atmosférica para determinar las capacidades, limitaciones, vulnerabilidades y posibilidades de los adversarios.",
+      "source_fragment": "Fragmento fuente",
+      "difficulty": 1,
+      "bloom_level": "remember"
+    },
+    {
+      "question": "¿Cuál es la importancia de la inteligencia en la toma de decisiones?",
+      "type": "multiple_choice",
+      "options": [
+        {"label": "A", "text": "Esencial para identificar fortalezas y debilidades"},
+        {"label": "B", "text": "No es necesario para tomar decisiones"},
+        {"label": "C", "text": "Importante pero no determinante"},
+        {"label": "D", "text": "Inútil en la toma de decisiones"}
+      ],
+      "correct_options": ["A", "B"],
+      "explanation": "La inteligencia es crucial para identificar las fortalezas y debilidades del adversario, lo que ayuda a determinar sus capacidades, limitaciones y vulnerabilidades.",
+      "source_fragment": "Fragmento fuente",
+      "difficulty": 2,
+      "bloom_level": "understand"
+    },
+    {
+      "question": "¿Qué significa la falta de procedimientos adecuados o coordinaciones entre esfuerzos?",
+      "type": "short_answer",
+      "options": [],
+      "correct_answer": "La falta de procedimientos y coordinaciones puede llevar a una derrota inminente.",
+      "explanation": "Esta situación impide que se utilicen los conocimientos obtenidos, lo cual resulta en decisiones basadas en información insuficiente o incorrecta.",
+      "source_fragment": "Fragmento fuente",
+      "difficulty": 1,
+      "bloom_level": "apply"
+    },
+    {
+      "question": "¿Qué es el proceso sistemático de recolección, evaluación y análisis de información?",
+      "type": "short_answer",
+      "options": [],
+      "correct_answer": "Es un proceso sistematico que incluye la recolección, evaluación y análisis de información con el objetivo de producir conocimiento útil para tomar decisiones.",
+      "explanation": "Este proceso es fundamental en la toma de decisiones debido a su capacidad para proporcionar datos precisos y relevantes.",
+      "source_fragment": "Fragmento fuente",
+      "difficulty": 1,
+      "bloom_level": "understand"
+    },
+    {
+      "question": "¿Qué es el objetivo principal de la inteligencia militar?",
+      "type": "short_answer",
+      "options": [],
+      "correct_answer": "Obtener los antecedentes más completos sobre el enemigo, su terreno y la situación atmosférica para determinar las capacidades, limitaciones, vulnerabilidades y posibilidades de los adversarios.",
+      "explanation": "Esta habilidad militar busca proporcionar información valiosa para tomar decisiones estratégicas.",
+      "source_fragment": "Fragmento fuente",
+      "difficulty": 1,
+      "bloom_level": "understand"
+    }
+  ]
+}
+```

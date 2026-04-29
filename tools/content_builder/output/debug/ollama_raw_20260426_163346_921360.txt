@@ -1,0 +1,59 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué actividades componen la Función Personal en el contexto del mando militar?",
+      "type": "multiple_choice",
+      "options": [
+        {"label": "A", "text": "Administración y empleo del personal"},
+        {"label": "B", "text": "Bienestar del personal"},
+        {"label": "C", "text": "Disciplina y control de la fuerza"},
+        {"label": "D", "text": "Todos los anteriores"}
+      ],
+      "correct_option": "D",
+      "explanation": "La Función Personal en el mando militar comprende administración, empleo del personal, bienestar, disciplina y control.",
+      "source_fragment": "Fragmento fuente utilizado como respaldo",
+      "difficulty": 1,
+      "bloom_level": "understand"
+    },
+    {
+      "question": "¿Por qué es crucial mantener la disponibilidad de la fuerza en el contexto del mando militar?",
+      "type": "short_answer",
+      "options": [],
+      "correct_option": null,
+      "explanation": "La disponibilidad garantiza que las operaciones militares se realicen sin problemas.",
+      "source_fragment": "Fragmento fuente utilizado como respaldo",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "question": "¿Cuál es la importancia de mantener el bienestar del personal en el contexto del mando militar?",
+      "type": "short_answer",
+      "options": [],
+      "correct_option": null,
+      "explanation": "El bienestar del personal mejora su motivación y compromiso con la misión.",
+      "source_fragment": "Fragmento fuente utilizado como respaldo",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "question": "¿Qué es fundamental para mantener un ambiente seguro en el trabajo dentro de una organización militar?",
+      "type": "short_answer",
+      "options": [],
+      "correct_option": null,
+      "explanation": "La disciplina y el control son fundamentales para asegurar un ambiente seguro.",
+      "source_fragment": "Fragmento fuente utilizado como respaldo",
+      "difficulty": 2,
+      "bloom_level": "apply"
+    },
+    {
+      "question": "¿Cuál es la importancia de entender las responsabilidades generales de la Función Personal en el contexto del mando militar?",
+      "type": "short_answer",
+      "options": [],
+      "correct_option": null,
+      "explanation": "Esta comprensión es necesaria para su correcta ejecución y cumplimiento de la misión.",
+      "source_fragment": "Fragmento fuente utilizado como respaldo",
+      "difficulty": 2,
+      "bloom_level": "understand"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <text x="220" y="250" fill="#ffffff" font-size="28" font-weight="700" font-family="Arial">Zona Norte</text>
+  <text x="640" y="410" fill="#ffffff" font-size="28" font-weight="700" font-family="Arial">Zona Este</text>
+  <text x="430" y="540" fill="#cbd5e1" font-size="22" font-family="Arial">Eje de análisis</text>
+</svg>

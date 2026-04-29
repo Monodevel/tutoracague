@@ -1,0 +1,24 @@
+```json
+{
+  "area": "Funciones Primarias del Mando",
+  "topic": "Función Personal",
+  "title": "La Importancia de la Función Personal en el Mando Militar",
+  "learning_objective": "Comprender las responsabilidades y importancia de la función personal en la administración, empleo, bienestar, disciplina y control del personal dentro de una organización militar.",
+  "content": "En un entorno militar, la Función Personal es fundamental para asegurar la disponibilidad, moral y eficiencia de la fuerza. Esta función incluye diversas actividades que son crucialmente importantes para el éxito de cualquier misión. Por ejemplo, la administración y empleo del personal garantizan que cada miembro esté capacitado para realizar sus tareas de manera efectiva. El bienestar del personal es vital para mantener su motivación y compromiso con la misión. Además, la disciplina y el control son fundamentales para asegurar un ambiente seguro y eficiente en el trabajo.",
+  "summary": "La Función Personal es una componente clave del mando militar que se encarga de administrar, emplear, cuidar, disciplinar y supervisar a los miembros de la fuerza. Su correcta ejecución es fundamental para mantener la disponibilidad, moral y eficiencia de la fuerza.",
+  "key_points": [
+    "Responsabilidades generales de la Función Personal",
+    "Relación con el mando",
+    "Importancia en el cumplimiento de la misión"
+  ],
+  "source": {
+    "document_title": "Documento oficial de Función Personal",
+    "document_version": "Inicial",
+    "page_start": 1,
+    "page_end": 1,
+    "source_fragment": "La Función Personal comprende el conjunto de actividades orientadas a la administración, empleo, bienestar, disciplina y control del personal dentro de una organización militar. Su correcta ejecución permite mantener la disponibilidad, moral y eficiencia de la fuerza. El estudio de esta función exige comprender sus responsabilidades generales, su relación con el mando y su importancia en el cumplimiento de la misión."
+  },
+  "status": "generated_pending_review",
+  "prompt_version": "lesson-v1"
+}
+```

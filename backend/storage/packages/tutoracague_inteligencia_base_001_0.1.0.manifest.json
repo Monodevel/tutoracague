@@ -1,0 +1,14 @@
+{
+  "package_name": "tutoracague_inteligencia_base_001",
+  "package_version": "0.1.0",
+  "imported_at": "2026-04-28T20:13:02.362933+00:00",
+  "source_file": "/Users/marco/Downloads/tutoracague_inteligencia_base_001/tutoracague_content_package.json",
+  "status": "imported_pending_validation",
+  "stats": {
+    "areas": 1,
+    "topics": 10,
+    "lessons": 10,
+    "content_blocks": 0,
+    "rag_indexed_lessons": 10
+  }
+}

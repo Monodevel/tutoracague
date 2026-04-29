@@ -1,0 +1,325 @@
+{
+  "package_name": "tutoracague_inteligencia_base_001",
+  "package_version": "0.1.0",
+  "imported_at": "2026-04-28T20:13:02.362530+00:00",
+  "visual_resources": [
+    {
+      "visual_resource_id": "vr_flujo_informaciones",
+      "topic_id": "topic_int_003",
+      "type": "diagram",
+      "title": "Flujo colaborativo de informaciones",
+      "description": "Recurso visual basado en la figura de flujo ascendente, descendente y paralelo.",
+      "base_image": {
+        "required": true,
+        "available_in_source": true,
+        "suggested_file_name": "rdi20001_fig1_flujo_informaciones.png",
+        "description": "Diagrama con escalones y flechas de flujo informativo.",
+        "source_reference": "RDI-20001, Fig. 1, p. 21",
+        "requires_manual_creation": true
+      },
+      "layers": [
+        {
+          "layer_id": "ascendente",
+          "name": "Flujo ascendente",
+          "type": "arrows",
+          "description": "Información hacia escalón superior.",
+          "default_visible": false,
+          "suggested_file_name": "fig1_ascendente.svg",
+          "pedagogical_use": "Analizar obligación de informar.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "descendente",
+          "name": "Flujo descendente",
+          "type": "arrows",
+          "description": "Difusión a subordinados.",
+          "default_visible": false,
+          "suggested_file_name": "fig1_descendente.svg",
+          "pedagogical_use": "Analizar difusión útil.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "paralelo",
+          "name": "Flujo paralelo",
+          "type": "arrows",
+          "description": "Comunicación entre mismo nivel.",
+          "default_visible": false,
+          "suggested_file_name": "fig1_paralelo.svg",
+          "pedagogical_use": "Analizar colaboración lateral.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        }
+      ],
+      "markers": [],
+      "visual_questions": [
+        {
+          "question_id": "vq_flujo_01",
+          "question": "Active los tres flujos y explique qué falla operacional generaría la ausencia de uno de ellos.",
+          "required_layers": [
+            "ascendente",
+            "descendente",
+            "paralelo"
+          ],
+          "expected_observation": "Identifica los tres sentidos.",
+          "expected_analysis": "Relaciona falla con oportunidad, coordinación o completitud.",
+          "critical_feedback_if_incomplete": "No basta con nombrar flechas; explique consecuencia.",
+          "source_reference": "RDI-20001, Fig. 1, p. 21"
+        }
+      ],
+      "requires_manual_visual_work": true,
+      "requires_validation": true
+    },
+    {
+      "visual_resource_id": "vr_ciclo_inteligencia",
+      "topic_id": "topic_int_006",
+      "type": "diagram",
+      "title": "Ciclo de inteligencia",
+      "description": "Ciclo con dirección del esfuerzo, obtención, análisis, difusión y uso.",
+      "base_image": {
+        "required": true,
+        "available_in_source": true,
+        "suggested_file_name": "rdi20002_fig5_ciclo_inteligencia.png",
+        "description": "Diagrama circular del ciclo de inteligencia.",
+        "source_reference": "RDI-20002, Fig. 5, p. 32",
+        "requires_manual_creation": true
+      },
+      "layers": [
+        {
+          "layer_id": "direccion",
+          "name": "Dirección del esfuerzo",
+          "type": "annotations",
+          "description": "Necesidades y prioridades.",
+          "default_visible": false,
+          "suggested_file_name": "ciclo_direccion.svg",
+          "pedagogical_use": "Relacionar comandante, CCIR/PIR y obtención.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "obtencion",
+          "name": "Obtención",
+          "type": "annotations",
+          "description": "Explotación de fuentes.",
+          "default_visible": false,
+          "suggested_file_name": "ciclo_obtencion.svg",
+          "pedagogical_use": "Comprender alimentación del ciclo.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "analisis",
+          "name": "Análisis",
+          "type": "annotations",
+          "description": "Transformación en inteligencia.",
+          "default_visible": false,
+          "suggested_file_name": "ciclo_analisis.svg",
+          "pedagogical_use": "Diferenciar información e inteligencia.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "difusion",
+          "name": "Difusión y uso",
+          "type": "annotations",
+          "description": "Entrega al usuario apropiado.",
+          "default_visible": false,
+          "suggested_file_name": "ciclo_difusion.svg",
+          "pedagogical_use": "Analizar oportunidad y uso.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        }
+      ],
+      "markers": [],
+      "visual_questions": [
+        {
+          "question_id": "vq_ciclo_01",
+          "question": "Explique por qué el ciclo no termina realmente en la difusión.",
+          "required_layers": [
+            "direccion",
+            "obtencion",
+            "analisis",
+            "difusion"
+          ],
+          "expected_observation": "Reconoce circularidad.",
+          "expected_analysis": "Explica actualización y nuevas necesidades.",
+          "critical_feedback_if_incomplete": "Falta explicar carácter cíclico.",
+          "source_reference": "RDI-20002, Fig. 5, p. 32"
+        }
+      ],
+      "requires_manual_visual_work": true,
+      "requires_validation": true
+    },
+    {
+      "visual_resource_id": "vr_ipb_pasos",
+      "topic_id": "topic_ipb_002",
+      "type": "diagram",
+      "title": "Proceso del IPB y productos",
+      "description": "Diagrama de pasos y productos del IPB.",
+      "base_image": {
+        "required": true,
+        "available_in_source": true,
+        "suggested_file_name": "rdi20002_fig1_productos_ipb.png",
+        "description": "Diagrama de productos del IPB.",
+        "source_reference": "RDI-20002, Fig. 1, p. 22; RDI-20005, Arts. 4 y 42-46",
+        "requires_manual_creation": true
+      },
+      "layers": [
+        {
+          "layer_id": "paso1",
+          "name": "Paso 1",
+          "type": "zones",
+          "description": "Definir ambiente.",
+          "default_visible": true,
+          "suggested_file_name": "ipb_paso1.svg",
+          "pedagogical_use": "Ver origen del análisis.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "paso2",
+          "name": "Paso 2",
+          "type": "zones",
+          "description": "Describir efectos.",
+          "default_visible": false,
+          "suggested_file_name": "ipb_paso2.svg",
+          "pedagogical_use": "Analizar terreno y tiempo.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "paso3",
+          "name": "Paso 3",
+          "type": "zones",
+          "description": "Evaluar amenaza.",
+          "default_visible": false,
+          "suggested_file_name": "ipb_paso3.svg",
+          "pedagogical_use": "Comprender amenaza.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "paso4",
+          "name": "Paso 4",
+          "type": "zones",
+          "description": "Determinar posibilidades.",
+          "default_visible": false,
+          "suggested_file_name": "ipb_paso4.svg",
+          "pedagogical_use": "Relacionar posibilidades y obtención.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        }
+      ],
+      "markers": [],
+      "visual_questions": [
+        {
+          "question_id": "vq_ipb_01",
+          "question": "Active los pasos y explique por qué el paso 4 depende de los anteriores.",
+          "required_layers": [
+            "paso1",
+            "paso2",
+            "paso3",
+            "paso4"
+          ],
+          "expected_observation": "Identifica secuencia.",
+          "expected_analysis": "Explica dependencia lógica.",
+          "critical_feedback_if_incomplete": "No basta con enumerar pasos.",
+          "source_reference": "RDI-20005, Arts. 42-46"
+        }
+      ],
+      "requires_manual_visual_work": true,
+      "requires_validation": true
+    },
+    {
+      "visual_resource_id": "vr_aor_iia",
+      "topic_id": "topic_ipb_003",
+      "type": "layered_map",
+      "title": "AOR, IIA y área de influencia",
+      "description": "Mapa por capas para estudiar delimitación del espacio de batalla.",
+      "base_image": {
+        "required": true,
+        "available_in_source": true,
+        "suggested_file_name": "rdi20005_fig9_espacio_batalla.png",
+        "description": "Ejemplo del espacio de batalla con AOR, área de influencia e IIA.",
+        "source_reference": "RDI-20005, Fig. 9, p. 51",
+        "requires_manual_creation": true
+      },
+      "layers": [
+        {
+          "layer_id": "aor",
+          "name": "AOR",
+          "type": "boundaries",
+          "description": "Área de responsabilidad.",
+          "default_visible": true,
+          "suggested_file_name": "fig9_aor.svg",
+          "pedagogical_use": "Identificar conducción principal.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "influencia",
+          "name": "Área de influencia",
+          "type": "zones",
+          "description": "Espacio donde puede detectar o comprometer amenaza.",
+          "default_visible": false,
+          "suggested_file_name": "fig9_influencia.svg",
+          "pedagogical_use": "Analizar alcance de capacidades propias.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "iia",
+          "name": "IIA",
+          "type": "boundaries",
+          "description": "Área de interés de inteligencia.",
+          "default_visible": false,
+          "suggested_file_name": "fig9_iia.svg",
+          "pedagogical_use": "Relacionar áreas futuras o adyacentes.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        },
+        {
+          "layer_id": "vacios",
+          "name": "Vacíos de inteligencia",
+          "type": "annotations",
+          "description": "Zonas donde se requiere obtención.",
+          "default_visible": false,
+          "suggested_file_name": "fig9_vacios.svg",
+          "pedagogical_use": "Explicar IR/PIR y coordinación.",
+          "requires_manual_creation": true,
+          "requires_validation": true
+        }
+      ],
+      "markers": [
+        {
+          "marker_id": "area_a",
+          "label": "Área A",
+          "description": "Obtención principalmente con medios orgánicos según ejemplo doctrinario.",
+          "suggested_position": "Según figura original.",
+          "x": null,
+          "y": null,
+          "requires_manual_positioning": true,
+          "pedagogical_use": "Distinguir obtención propia."
+        }
+      ],
+      "visual_questions": [
+        {
+          "question_id": "vq_aor_iia_01",
+          "question": "Active AOR, IIA y vacíos. Explique qué área cubre la unidad propia y cuál exige coordinación.",
+          "required_layers": [
+            "aor",
+            "iia",
+            "vacios"
+          ],
+          "expected_observation": "Identifica áreas y vacíos.",
+          "expected_analysis": "Relaciona delimitación con asignación de medios y requerimientos.",
+          "critical_feedback_if_incomplete": "Debe explicar consecuencia en obtención.",
+          "source_reference": "RDI-20005, Arts. 60-72 y Fig. 9, p. 51"
+        }
+      ],
+      "requires_manual_visual_work": true,
+      "requires_validation": true
+    }
+  ]
+}

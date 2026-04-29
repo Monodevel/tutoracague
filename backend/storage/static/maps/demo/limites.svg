@@ -1,0 +1,6 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <path d="M500 80 L500 620" stroke="#22d3ee" stroke-width="5" stroke-dasharray="16 12"></path>
+  <path d="M120 360 L880 360" stroke="#38bdf8" stroke-width="4" stroke-dasharray="10 10"></path>
+  <text x="515" y="115" fill="#67e8f9" font-size="22" font-family="Arial">Límite principal</text>
+  <text x="130" y="345" fill="#7dd3fc" font-size="20" font-family="Arial">Límite secundario</text>
+</svg>

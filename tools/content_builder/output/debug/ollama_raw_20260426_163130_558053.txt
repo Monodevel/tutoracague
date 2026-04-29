@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "question": "¿Qué es la inteligencia en el contexto del toma de decisiones?",
+      "type": "single_choice",
+      "options": [
+        {"label": "A", "text": "Identificar las fortalezas y debilidades del adversario"},
+        {"label": "B", "text": "Recolectar información sobre el terreno"},
+        {"label": "C", "text": "Determinar la posición de los soldados"},
+        {"label": "D", "text": "Preparar armas y municiones"}
+      ],
+      "correct_option": "A",
+      "explanation": "La inteligencia busca identificar las capacidades, limitaciones, vulnerabilidades y posibilidades del adversario para neutralizar la amenaza.",
+      "source_fragment": "Fragmento fuente sobre la función de Inteligencia en el proceso de toma de decisiones.",
+      "difficulty": 1,
+      "bloom_level": "remember"
+    },
+    {
+      "question": "¿Cuál es una característica fundamental de la inteligencia militar?",
+      "type": "multiple_choice",
+      "options": [
+        {"label": "A", "text": "Obtener el máximo de antecedentes del enemigo"},
+        {"label": "B", "text": "Determinar las fortalezas y debilidades del adversario"},
+        {"label": "C", "text": "Preparar armas y municiones"},
+        {"label": "D", "text": "Recolectar información sobre el terreno"}
+      ],
+      "correct_options": ["A", "B"],
+      "explanation": "La inteligencia busca obtener los antecedentes del enemigo, terreno y tiempo atmosferico para neutralizar la amenaza.",
+      "source_fragment": "Fragmento fuente sobre las características fundamentales de la inteligencia militar.",
+      "difficulty": 1,
+      "bloom_level": "remember"
+    },
+    {
+      "question": "¿Qué función militar busca obtener los antecedentes del enemigo, terreno y tiempo atmosferico?",
+      "type": "multiple_choice",
+      "options": [
+        {"label": "A", "text": "La inteligencia"},
+        {"label": "B", "text": "La defensa"},
+        {"label": "C", "text": "El ataque"},
+        {"label": "D", "text": "La comunicación"}
+      ],
+      "correct_options": ["A"],
+      "explanation": "La función militar que busca obtener los antecedentes del enemigo, terreno y tiempo atmosferico es la inteligencia.",
+      "source_fragment": "Fragmento fuente sobre las funciones militares.",
+      "difficulty": 1,
+      "bloom_level": "remember"
+    },
+    {
+      "question": "¿Qué papel juega la inteligencia en el proceso de toma de decisiones?",
+      "type": "short_answer",
+      "options": [],
+      "explanation": "La inteligencia es un elemento fundamental en el proceso de toma de decisiones, ya que busca obtener los antecedentes del enemigo, terreno y tiempo atmosferico.",
+      "source_fragment": "Fragmento fuente sobre la importancia de la inteligencia en el proceso de toma de decisiones.",
+      "difficulty": 1,
+      "bloom_level": "understand"
+    },
+    {
+      "question": "¿Qué consecuencia puede tener la falta de procedimientos y coordinaciones entre los diferentes esfuerzos?",
+      "type": "short_answer",
+      "options": [],
+      "explanation": "La falta de procedimientos y coordinaciones entre los diferentes esfuerzos puede conducir a una inminente derrota.",
+      "source_fragment": "Fragmento fuente sobre la importancia de las procedencias y coordinaciones en el proceso de toma de decisiones.",
+      "difficulty": 1,
+      "bloom_level": "understand"
+    }
+  ]
+}

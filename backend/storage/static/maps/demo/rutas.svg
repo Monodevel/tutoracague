@@ -1,0 +1,6 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150 590 C280 470, 390 500, 520 390 C650 280, 760 310, 880 180" fill="none" stroke="#facc15" stroke-width="8" stroke-linecap="round"></path>
+  <circle cx="150" cy="590" r="12" fill="#facc15"></circle>
+  <circle cx="880" cy="180" r="12" fill="#facc15"></circle>
+  <text x="580" y="330" fill="#fde68a" font-size="22" font-family="Arial">Ruta principal</text>
+</svg>

@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\pages\\initialsetup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\pages\\initialsetup.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\wwwroot\\tutoracague.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\wwwroot\\tutoracague.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\services\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\services\\progressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\services\\evaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\services\\evaluationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\services\\studycontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\services\\studycontentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\data\\tutoracaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\data\\tutoracaguedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\studyprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\studyprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\evaluationanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\evaluationanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\evaluation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\questionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\studytopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\studytopic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\models\\studyarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\models\\studyarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|c:\\users\\marco\\documents\\desarrollo\\tutoracague\\tutoracague.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CBCBC390-1A8A-16B7-F6ED-92F3D01572B0}|TutorAcague.App\\TutorAcague.App.csproj|solutionrelative:tutoracague.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitialSetup.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\InitialSetup.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Pages\\InitialSetup.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\InitialSetup.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Pages\\InitialSetup.razor",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwBoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T18:13:24.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvy0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T18:06:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAALIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:52:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Routes.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:52:17.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:51:57.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:51:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\_Imports.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:50:49.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\App.razor",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Components\\App.razor",
+              "RelativeToolTip": "TutorAcague.App\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:12:14.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "TutorAcague.App\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\wwwroot\\app.css",
+              "RelativeToolTip": "TutorAcague.App\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-25T17:10:40.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tutoracague.css",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\wwwroot\\tutoracague.css",
+              "RelativeDocumentMoniker": "TutorAcague.App\\wwwroot\\tutoracague.css",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\wwwroot\\tutoracague.css",
+              "RelativeToolTip": "TutorAcague.App\\wwwroot\\tutoracague.css",
+              "ViewState": "AgIAACICAAAAAAAAAAAmwK8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-25T17:11:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudyContentService.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\StudyContentService.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Services\\StudyContentService.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\StudyContentService.cs",
+              "RelativeToolTip": "TutorAcague.App\\Services\\StudyContentService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:43:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Program.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Program.cs",
+              "RelativeToolTip": "TutorAcague.App\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:19:58.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EvaluationService.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\EvaluationService.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Services\\EvaluationService.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\EvaluationService.cs",
+              "RelativeToolTip": "TutorAcague.App\\Services\\EvaluationService.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowDgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:07:25.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\UserProfile.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:42:43.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Services\\UserProfileService.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\UserProfileService.cs",
+              "RelativeToolTip": "TutorAcague.App\\Services\\UserProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:42:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Data\\SeedData.cs",
+              "RelativeToolTip": "TutorAcague.App\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:54:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TutorAcagueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Data\\TutorAcagueDbContext.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Data\\TutorAcagueDbContext.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Data\\TutorAcagueDbContext.cs",
+              "RelativeToolTip": "TutorAcague.App\\Data\\TutorAcagueDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAArwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:51:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProgressService.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\ProgressService.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Services\\ProgressService.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Services\\ProgressService.cs",
+              "RelativeToolTip": "TutorAcague.App\\Services\\ProgressService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:08:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudyProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyProgress.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\StudyProgress.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyProgress.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\StudyProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:50:42.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EvaluationAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\EvaluationAnswer.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\EvaluationAnswer.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\EvaluationAnswer.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\EvaluationAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:50:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Question.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\Question.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:40:04.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Evaluation.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Evaluation.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\Evaluation.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Evaluation.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\Evaluation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:46:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuestionOption.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\QuestionOption.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\QuestionOption.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\QuestionOption.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\QuestionOption.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:44:29.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\Lesson.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:35:52.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudyTopic.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyTopic.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\StudyTopic.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyTopic.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\StudyTopic.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:33:19.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudyArea.cs",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyArea.cs",
+              "RelativeDocumentMoniker": "TutorAcague.App\\Models\\StudyArea.cs",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\Models\\StudyArea.cs",
+              "RelativeToolTip": "TutorAcague.App\\Models\\StudyArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:30:37.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\appsettings.json",
+              "RelativeDocumentMoniker": "TutorAcague.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Marco\\Documents\\Desarrollo\\TutorAcague\\TutorAcague.App\\appsettings.json",
+              "RelativeToolTip": "TutorAcague.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T19:24:39.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

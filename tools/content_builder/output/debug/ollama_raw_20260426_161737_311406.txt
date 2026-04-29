@@ -1,0 +1,24 @@
+```json
+{
+  "area": "Funciones Primarias del Mando",
+  "topic": "Función Inteligencia",
+  "title": "Inteligencia: El Pilar de la Toque de Decisión",
+  "learning_objective": "Desarrollar comprensión sobre el papel y importancia de la Inteligencia en la toma de decisiones.",
+  "content": "La inteligencia es una función primaria del mando, identificada al campo de batalla. Como una de las funciones de combate, esta habilidad militar busca obtener los antecedentes más completos sobre el enemigo, su terreno y la situación atmosférica, constituyendo un elemento fundamental en la toma de decisiones. La falta de procedimientos adecuados o coordinaciones entre esfuerzos puede llevar a una derrota inminente. Definición: Es un proceso sistemático que incluye recolección, evaluación y análisis de información con el objetivo de producir conocimiento útil para tomar decisiones.",
+  "summary": "La Inteligencia es crucial en la toma de decisiones debido a su capacidad para proporcionar antecedentes precisos sobre el enemigo, sus posibilidades y fortalezas. La falta de coordinación entre diferentes esfuerzos puede llevar a una derrota inminente.",
+  "key_points": [
+    "La Inteligencia es fundamental en la toma de decisiones",
+    "Busca obtener antecedentes precisos sobre el enemigo, terreno y situación atmosférica",
+    "Falta de procedimientos adecuados puede conducir a una derrota inminente"
+  ],
+  "source": {
+    "document_title": "Documento oficial de Función Inteligencia",
+    "document_version": "Inicial",
+    "page_start": 1,
+    "page_end": 1,
+    "source_fragment": "La funcion Inteligencia, es una funcion primaria del mando, cuya proyeccion al Campo de Batalla la identifica, ademas, como una de las Funciones de Combate. La inteligencia es uno de los elementos fundamentales en el proceso de toma de deiciones y su importancia radica en que es la funcion militar que busca obtener el maximo de antecedentes del enemigo, terreno y tiempo atmosferico, contituyendo una actividad imprescindible en la tarea de determinar las capacidades, limitaciones, vulnerabilidades y posibilidades de los eventuales adversarios para identificar y contribuir a determinar sus fortalezas y debilidades con la finalidad de neutralizar la amenaza, proporcionar seguridad y brindar apoyo. Asucensia de informacion y/o inteligencia, la falta de procedimientos y coordinaciones entre los diferentes esfuerzos conducen a una inminente derrota. Definicion: Proceso sistematico de recoleccion, evaluacion y analisis de informacion, cuya finalidad es producir conocimiento util para la toma de decisiones."
+  },
+  "status": "generated_pending_review",
+  "prompt_version": "lesson-v1"
+}
+```
